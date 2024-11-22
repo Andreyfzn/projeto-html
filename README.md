@@ -1,2 +1,2 @@
 # projeto-html
-Feito por Andrey e joão Carlos Musiat
+Feito por Andrey e João Carlos Musiat
